@@ -36,7 +36,7 @@ setup(
     include_package_data=True,
     keywords='python-fire',
     name='widget',
-    packages=find_packages(include=['issho']),
+    packages=find_packages(),
     setup_requires=setup_requirements,
     url='https://github.com/michaelbilow/python-fire-example',
     version='0.0.1',
